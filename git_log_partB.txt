@@ -1,0 +1,103 @@
+commit 67c9f2cf965b57d9adb448d9fe3c7ae0b9d26b96
+Author: Shyam Kiran Nimma <shyamkirannimma143@gmail.com>
+Date:   Tue Mar 21 16:50:34 2023 +0530
+
+    Re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..b7e59d8
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++Year of Graduation : 2025 Job Title :Software Engineer
+\ No newline at end of file
+
+commit 1cbdee1ef598bb1101f957ecf689ab5f62ef6562
+Author: Shyam Kiran Nimma <shyamkirannimma143@gmail.com>
+Date:   Tue Mar 21 16:37:31 2023 +0530
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 373cda3..5ae98ae 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,2 +1,3 @@
+ Shyam Kiran Nimma Computer Science & Engineering
+-Tag hotel John wick
+\ No newline at end of file
++Tag hotel John wick
++Orange
+\ No newline at end of file
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index b7e59d8..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-Year of Graduation : 2025 Job Title :Software Engineer
+\ No newline at end of file
+
+commit c76fb45dcce837c8820c06ce6cdef5e01024430e
+Author: Shyam Kiran Nimma <shyamkirannimma143@gmail.com>
+Date:   Tue Mar 21 16:24:09 2023 +0530
+
+    staged Year of Graduation and Job Title
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..b7e59d8
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++Year of Graduation : 2025 Job Title :Software Engineer
+\ No newline at end of file
+
+commit 95ea00169b8b9031e67ea8e63147aebc12f61dda
+Author: Shyam Kiran Nimma <shyamkirannimma143@gmail.com>
+Date:   Tue Mar 21 15:58:12 2023 +0530
+
+    Added favorite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index bd07f26..373cda3 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+-Shyam Kiran Nimma Computer Science & Engineering
+\ No newline at end of file
++Shyam Kiran Nimma Computer Science & Engineering
++Tag hotel John wick
+\ No newline at end of file
+
+commit d4698126628454082d53c9b2d773294f3749494f
+Author: Shyam Kiran Nimma <shyamkirannimma143@gmail.com>
+Date:   Tue Mar 21 15:50:55 2023 +0530
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index a110e6a..bd07f26 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Shyam Kiran Nimma 27610
+\ No newline at end of file
++Shyam Kiran Nimma Computer Science & Engineering
+\ No newline at end of file
+
+commit 4b3040fdc57486f0ad3217cb43bc2c3655667d7c
+Author: Shyam Kiran Nimma <shyamkirannimma143@gmail.com>
+Date:   Tue Mar 21 15:36:05 2023 +0530
+
+    Committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..a110e6a
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Shyam Kiran Nimma 27610
+\ No newline at end of file
